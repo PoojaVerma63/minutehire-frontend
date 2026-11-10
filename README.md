@@ -45,4 +45,19 @@ The application focuses on delivering a modern, responsive, and user-friendly jo
 
 ---
 
+## 🖥️ Application Screenshots
+
+### 1. Home Page
+![MinuteHire Home Page](docs/screenshots/Home.png)
+
+### 2. Application Preview
+![MinuteHire Preview](docs/screenshots/home%202.png)
+
+### 3. Additional Application View
+![MinuteHire Application](docs/screenshots/home3.png)
+
+## 🚀 Live Demo
+
+[View MinuteHire Live Application](https://minutehire-frontend-71b6p47ai-poojaverma63.vercel.app/)
+
 *This is an independent portfolio project inspired by HireKit. It is not an official HireKit product.*
